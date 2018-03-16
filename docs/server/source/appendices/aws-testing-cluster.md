@@ -68,7 +68,7 @@ If you want to set up a more secure security group, see the [Notes for Firewall 
 
 ### Step 1
 
-Suppose _N_ is the number of nodes you want in your BigchainDB cluster. If you already have a set of _N_ BigchainDB configuration files in the `deploy-cluster-aws/confiles` directory, then you can jump to the next step. To create such a set, you can do something like:
+Suppose _N_ is the number of nodes you want in your BigchainDB cluster. If you already have a set of _N_ BigchainDB configuration files in the `deploy-cluster-aws/conf` directory, then you can jump to the next step. To create such a set, you can do something like:
 ```text
 # in a Python 3 virtual environment where bigchaindb is installed
 cd bigchaindb
